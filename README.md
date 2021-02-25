@@ -1,0 +1,3 @@
+# qb-releases
+
+Scripts qbcore
